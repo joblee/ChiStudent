@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5B315DCBA27E33EA51316A5B8BF2EC4C8522EB4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "858804f5-3ca4-49eb-85a0-846606b03b88++9590" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "858804f5-3ca4-49eb-85a0-846606b03b88++9590" : 0,
+    "5B315DCBA27E33EA51316A5B8BF2EC4C8522EB4D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F43640C-7E3F-4934-99E1-DB14DA5DA390",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "858804f5-3ca4-49eb-85a0-846606b03b88++9590" : "ChiStudent\/Chinessy\/UMessage_Sdk_1.3.0\/",
+    "5B315DCBA27E33EA51316A5B8BF2EC4C8522EB4D" : "ChiStudent\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Chinessy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Chinessy.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joblee\/ChiStudent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B315DCBA27E33EA51316A5B8BF2EC4C8522EB4D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/120.76.223.83\/hukerepos",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "858804f5-3ca4-49eb-85a0-846606b03b88++9590"
+    }
+  ]
+}
