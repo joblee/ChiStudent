@@ -1,0 +1,25 @@
+Other > Register: 注册成功只转菊花, 仅当失败才文字提示;
+Other > Register: 填完email/pwd后进入Edit Profile, 但在下方增加文字"Skip This Step >" ;
+
+Home: 修改口号为 Your 1-On-1 Chinese Tutor On-demand [Done]
+Home > PracticeNow: 选择老师时，先进入空白页面再提示(参考美团);[Done]
+Home > PracticeNow: 修改提示语：1)成功: Awesome! Your tutor will call you back shortly. [Done. Keep Original]
+2) 失败: 冲突提示语改为"You're already in a practice session. 类型为弹框 OK " [Done. Keep Original]
+Home/TutorProfile: PracticeNow/Reservation, 首次点击且注册时未填写档案, 则跳转到EditProfile;
+
+Tutors: 无Busy/offline时，去掉标题；
+Tutors > Profile: 修改两个按钮的设计, 见设计稿;
+Tutors > Practice弹框: 修改设计, 见设计稿;
+Tutors/Reservation: 新增下拉刷新效果;
+
+Reservation: 空白时，背景色应为浅灰; [Done]
+Reservation: 1) 整栏需可点击并转跳到tutor profile页; 2) xxmin字体改为灰色，并增大字号;
+
+Me > EditProfile:  1) 全页字体改为一样大; [Done] 2) Full name 提示去掉; [Done] 3) 在Full name下面增加Country/Region, 右箭头选择;
+Me > EditProfile: Save成功只转菊花, 仅当失败才文字提示;
+Me > TellFriends: 文本改为"...and get an extra 30min..." [Done]
+Me > EmailSupport: 改为 help@chinessy.com; [Done]
+Me > 点击banner需可进入Edit Profile; [Cancel]
+
+
+Tableview tutor photo show blank image when empty

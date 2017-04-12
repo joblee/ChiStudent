@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (3.0.1)
+  - AlamofireImage (2.0.0):
+    - Alamofire (~> 3.0)
+  - CardIO (5.2.2)
+  - ISO3661-1Alpha2_swift (0.0.2)
+  - PayPal-iOS-SDK (2.12.7):
+    - PayPal-iOS-SDK/CardIO (= 2.12.7)
+    - PayPal-iOS-SDK/Core (= 2.12.7)
+  - PayPal-iOS-SDK/CardIO (2.12.7):
+    - CardIO (~> 5.2.2)
+  - PayPal-iOS-SDK/Core (2.12.7)
+  - SwiftyJSON (2.3.1)
+  - UMengAnalytics-NO-IDFA (3.5.11)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - ISO3661-1Alpha2_swift (~> 0.0.2)
+  - PayPal-iOS-SDK
+  - SwiftyJSON (~> 2.3)
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  Alamofire: 2457e1b2e6c46bb05c3a598c542b7bfd08893775
+  AlamofireImage: 5cecda9b1031f86067c89ddba1d91ead0a8c3f0e
+  CardIO: 2460db0f4936f3441b08d51e3904b436d77ec8fc
+  ISO3661-1Alpha2_swift: 371a98723a51fa42e7e9d78a390b9b4fe70a7937
+  PayPal-iOS-SDK: 401d441844bd6f0e08905dcdd7795f44c5ecef6c
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+  UMengAnalytics-NO-IDFA: e41024644de702e450093ef043af20b5fbe06cbc
+
+COCOAPODS: 0.39.0
